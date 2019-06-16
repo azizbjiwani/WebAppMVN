@@ -15,3 +15,4 @@ Deploy ```target/WebApp.war``` on Tomcat
 Add instruction to deploy to ElasticBeanstalk# WebAppMVN
 
 1st commit
+2nd commit
