@@ -20,4 +20,5 @@ https://docs.bitnami.com/oci/how-to/create-ci-pipeline-jenkins-oracle/
 1st commit
 2nd commit
 3rd commit
+Added tomcat in Jenkins Conf for deployment
 
