@@ -21,8 +21,9 @@ https://docs.bitnami.com/oci/how-to/create-ci-pipeline-jenkins-oracle/
 https://shdhumale.wordpress.com/2015/10/27/deploying-project-war-file-from-jenkins-to-tomcat/
 https://www.tildedave.com/2012/11/24/reverting-a-github-pull-request.html
 
-1st commit
-2nd commit
-3rd commit
-Added tomcat in Jenkins Conf for deployment
+1st commit.
+2nd commit.
+3rd commit.
+Added tomcat in Jenkins Conf for deployment.
+updates from Git GUI are displayed?
 
