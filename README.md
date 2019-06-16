@@ -14,5 +14,8 @@ Deploy ```target/WebApp.war``` on Tomcat
  
 Add instruction to deploy to ElasticBeanstalk# WebAppMVN
 
+urls:
+https://docs.bitnami.com/oci/how-to/create-ci-pipeline-jenkins-oracle/
+
 1st commit
 2nd commit
