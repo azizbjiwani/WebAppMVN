@@ -12,10 +12,14 @@ Deploy ```target/WebApp.war``` on Tomcat
  
 #TODO
  
+<user username="deployer" password="deployer" roles="manager-script" />
+
 Add instruction to deploy to ElasticBeanstalk# WebAppMVN
 
 urls:
 https://docs.bitnami.com/oci/how-to/create-ci-pipeline-jenkins-oracle/
+https://shdhumale.wordpress.com/2015/10/27/deploying-project-war-file-from-jenkins-to-tomcat/
+https://www.tildedave.com/2012/11/24/reverting-a-github-pull-request.html
 
 1st commit
 2nd commit
